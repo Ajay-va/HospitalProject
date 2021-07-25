@@ -11,6 +11,8 @@ public class HospitalProjectApplication {
 
 		System.out.println("Hello Hospital Management");
 	
+		
+		System.out.println("Hello manager  good morning");
 	}
 
 	
