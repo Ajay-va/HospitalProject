@@ -38,6 +38,10 @@ public class Order {
 	public void setPname(String pname) {
 		this.pname = pname;
 	}
+	@Override
+	public String toString() {
+		return "Order [oid=" + oid + ", oname=" + oname + ", pincode=" + pincode + ", pname=" + pname + "]";
+	}
 	
 	
 	
